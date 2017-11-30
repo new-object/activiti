@@ -7,6 +7,7 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 public class ActivitiTest1Application {
 //activiti测试
 	public static void main(String[] args) {
+		sysout
 		SpringApplication.run(ActivitiTest1Application.class, args);
 	}
 }
